@@ -1,5 +1,5 @@
 let arr=['r','a','c','e','c','a','r'];
-let isPalindrome=true;
+let isPalindrome=true;   
 
 let left=0;
 let right=arr.length-1;
